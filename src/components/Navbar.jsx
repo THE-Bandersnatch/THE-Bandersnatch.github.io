@@ -8,7 +8,7 @@ const Navbar = () => {
             <img className="mx-2 w-10" src={logo} alt="logo" />
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-            <a href="https://www.linkedin.com/in/the-bandersnatch" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/khalilhaimer/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin className="hover:text-blue-600 transition-colors duration-300"/>
             </a>
             <a href="https://github.com/THE-Bandersnatch" target="_blank" rel="noopener noreferrer">
